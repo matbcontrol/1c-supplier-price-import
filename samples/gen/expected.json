@@ -1,0 +1,32 @@
+{
+ "v1": {
+  "rows": 153,
+  "byBarcode": 3,
+  "byArticle": 135,
+  "byName": 5,
+  "newItems": 8,
+  "errors": 3,
+  "noPrice": 1,
+  "check": 0,
+  "changed": 99,
+  "unchanged": 42,
+  "supplierWrites": 90,
+  "rrpWrites": 46,
+  "mappings": 150
+ },
+ "v2": {
+  "rows": 153,
+  "newItems": 2,
+  "errors": 3,
+  "noPrice": 1,
+  "check": 2,
+  "changed": 31,
+  "unchanged": 114,
+  "supplierWrites": 26,
+  "rrpWrites": 10,
+  "bySupplierMapping": 148,
+  "decimalSlipCode": "АМ-10680",
+  "decimalSlipPriceInDb": 178.64,
+  "saleCode": "АМ-10358"
+ }
+}
